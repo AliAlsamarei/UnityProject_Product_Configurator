@@ -1,0 +1,283 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 8.1  (6.3.0) 64bit' Language: 'en' Physical Memory: 32650 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\2020.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/MurphyBed/UnityProject/MurphyBed
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53677
+Successfully changed project path to: D:/MurphyBed/UnityProject/MurphyBed
+D:/MurphyBed/UnityProject/MurphyBed
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 37.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path D:/Program Files/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/MurphyBed/UnityProject/MurphyBed/Assets
+GfxDevice: creating device client; threaded=0
+d3d11: QueryInterface(IDXGIFactory5) failed (80004002).
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 880M (ID=0x1198)
+    Vendor:   
+    VRAM:     3996 MB
+    Driver:   25.21.14.2531
+Initialize mono
+Mono path[0] = 'D:/Program Files/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56236
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001163 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 32.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.069 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000705 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.432 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1237 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.4 MB.
+System memory in use after: 66.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1680.
+Total: 2.362355 ms (FindLiveObjects: 0.195010 ms CreateObjectMapping: 0.094084 ms MarkObjects: 1.962499 ms  DeleteObjects: 0.109907 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/CamRot.cs
+  artifactKey: Guid(213107f73bef1c74a84f01f77b7cf933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CamRot.cs using Guid(213107f73bef1c74a84f01f77b7cf933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2740709ae928f52602128cde80e86fdf') in 0.057359 seconds
+  Import took 0.062141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.805433 seconds.
+  path: Assets/Scripts/ButtonCode.cs
+  artifactKey: Guid(ed4d3ff36394ab14b9a3041cf2b8b1b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ButtonCode.cs using Guid(ed4d3ff36394ab14b9a3041cf2b8b1b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac1751163aab655e494f8a89148a3f8') in 0.009349 seconds
+  Import took 0.011927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Scripts/ButtonCode.cs
+  artifactKey: Guid(ed4d3ff36394ab14b9a3041cf2b8b1b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ButtonCode.cs using Guid(ed4d3ff36394ab14b9a3041cf2b8b1b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac1751163aab655e494f8a89148a3f8') in 0.002440 seconds
+  Import took 0.005620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.147141 seconds.
+  path: Assets/Textuers/4K-fabric_76_ambientocclusion.png
+  artifactKey: Guid(a974b23839d5d7247a8c9cc93a5322d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/4K-fabric_76_ambientocclusion.png using Guid(a974b23839d5d7247a8c9cc93a5322d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be66c0bbcd505830ded56c28a5470f74') in 0.145060 seconds
+  Import took 0.147834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Textuers/4K-fabric_76_roughness.png
+  artifactKey: Guid(7f4e4d0c977f4cc40b7991d1bb5b6ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/4K-fabric_76_roughness.png using Guid(7f4e4d0c977f4cc40b7991d1bb5b6ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be247d08f7e51247df13ea92aabcfc8') in 0.082476 seconds
+  Import took 0.084877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Textuers/Wood_Plywood_Front_001_height.png
+  artifactKey: Guid(d09c416a285a55544aa10d7b2dc45a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/Wood_Plywood_Front_001_height.png using Guid(d09c416a285a55544aa10d7b2dc45a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '042be70ffdd4b6e685f78676b250d665') in 0.017661 seconds
+  Import took 0.019936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Textuers/antique_veneer1_ao.png
+  artifactKey: Guid(6ef156665c90c1743ad51544d10de4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/antique_veneer1_ao.png using Guid(6ef156665c90c1743ad51544d10de4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e45b8bc766235e81f4fb438e79be8f6d') in 0.016574 seconds
+  Import took 0.018895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Textuers/Wood_Plywood_Front_001_ambientOcclusion.jpg
+  artifactKey: Guid(514c00718fc407e47a9bef7027bb428b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/Wood_Plywood_Front_001_ambientOcclusion.jpg using Guid(514c00718fc407e47a9bef7027bb428b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67e415b27338ce9201bc77869eb6a799') in 0.013879 seconds
+  Import took 0.016026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Textuers/4K-fabric_76_height.png
+  artifactKey: Guid(b0f8244ac6534c6429221e6a5e043f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/4K-fabric_76_height.png using Guid(b0f8244ac6534c6429221e6a5e043f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01db0c4224dc2f431ff5ae3fa61721e1') in 0.016525 seconds
+  Import took 0.018724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Textuers/antique_veneer1_Normal-dx.png
+  artifactKey: Guid(0002de6ef1a571942b022a8e88c10b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/antique_veneer1_Normal-dx.png using Guid(0002de6ef1a571942b022a8e88c10b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6004097bac10bad28a899f85467539f9') in 0.063691 seconds
+  Import took 0.066514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Textuers/Wood_Plywood_Front_001_roughness.jpg
+  artifactKey: Guid(d8df7e96463bbaa4ba5afdddec3d7182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/Wood_Plywood_Front_001_roughness.jpg using Guid(d8df7e96463bbaa4ba5afdddec3d7182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a962d637146c0d06a9c4330f9923064') in 0.014657 seconds
+  Import took 0.017045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Textuers/antique_veneer1_Height.png
+  artifactKey: Guid(ccc61459c32fa3946945f33e62696c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/antique_veneer1_Height.png using Guid(ccc61459c32fa3946945f33e62696c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0b5a9ef3303cea5ed659d8a6fab97fc') in 0.019956 seconds
+  Import took 0.022573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Textuers/Wood_Plywood_Front_001_normal.jpg
+  artifactKey: Guid(69b329cc89b9ab6468a5ef5763afa1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/Wood_Plywood_Front_001_normal.jpg using Guid(69b329cc89b9ab6468a5ef5763afa1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef0fb4b6782a7e6b8b368e01d92f707b') in 0.016529 seconds
+  Import took 0.018889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Textuers/antique_veneer1_Roughness.png
+  artifactKey: Guid(683d198d85246ca41a039f6cc58d69ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/antique_veneer1_Roughness.png using Guid(683d198d85246ca41a039f6cc58d69ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc855adb5ff442d33f6e8335d821042d') in 0.016740 seconds
+  Import took 0.019063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Textuers/4K-fabric_76_normal.png
+  artifactKey: Guid(a2db1eed6162b98469427a201a675092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/4K-fabric_76_normal.png using Guid(a2db1eed6162b98469427a201a675092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b84f6e6071a14918ceffc5abb8e36a3') in 0.018616 seconds
+  Import took 0.021066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Textuers/Wood_Plywood_Front_001_basecolor.jpg
+  artifactKey: Guid(bd182371d3b3f7048b36c37458a7fa44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/Wood_Plywood_Front_001_basecolor.jpg using Guid(bd182371d3b3f7048b36c37458a7fa44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47fdfe4e72813ecd1771075c1369abaf') in 0.017117 seconds
+  Import took 0.019882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Textuers/4K-fabric_76_basecolor.png
+  artifactKey: Guid(84b71cc1eb91b4948bdd4e816b183fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/4K-fabric_76_basecolor.png using Guid(84b71cc1eb91b4948bdd4e816b183fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d4c263ed687193b7a7514409baf632e') in 0.016639 seconds
+  Import took 0.018941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Textuers/antique_veneer1_albedo.png
+  artifactKey: Guid(1971ad558b8727944b8a5de0d797858c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textuers/antique_veneer1_albedo.png using Guid(1971ad558b8727944b8a5de0d797858c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a62bac5806589930667112a5afcf75c') in 0.020038 seconds
+  Import took 0.022385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.314073 seconds.
+  path: Assets/Scenes/SampleScene_Profiles
+  artifactKey: Guid(186a788f4086c88498f9099a0d0c43d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene_Profiles using Guid(186a788f4086c88498f9099a0d0c43d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ff9dd538bf503449378bba8a122d6ce') in 0.007716 seconds
+  Import took 0.010939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001277 seconds.
+  path: Assets/Scenes/SampleScene_Profiles
+  artifactKey: Guid(186a788f4086c88498f9099a0d0c43d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene_Profiles using Guid(186a788f4086c88498f9099a0d0c43d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ff9dd538bf503449378bba8a122d6ce') in 0.002082 seconds
+  Import took 0.004820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.183413 seconds.
+  path: Assets/Scenes/SampleScene_Profiles/PP Profile.asset
+  artifactKey: Guid(ec3669f1ffecdb44db611deab812f71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene_Profiles/PP Profile.asset using Guid(ec3669f1ffecdb44db611deab812f71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4582773bc6f34cbaf8c0834010bfc0') in 0.018232 seconds
+  Import took 0.020914 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000584 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.859 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.7 MB.
+System memory in use after: 66.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1688.
+Total: 2.444036 ms (FindLiveObjects: 0.209122 ms CreateObjectMapping: 0.103920 ms MarkObjects: 2.074117 ms  DeleteObjects: 0.055595 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000534 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.845 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.8 MB.
+System memory in use after: 66.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1691.
+Total: 2.330281 ms (FindLiveObjects: 0.164646 ms CreateObjectMapping: 0.076550 ms MarkObjects: 2.036483 ms  DeleteObjects: 0.051318 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
